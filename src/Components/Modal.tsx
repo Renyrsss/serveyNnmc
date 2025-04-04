@@ -1,5 +1,3 @@
-import React from "react";
-
 function Modal({ isOpen }: { isOpen: { data: boolean } }) {
     console.log(isOpen);
 
